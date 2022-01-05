@@ -1775,7 +1775,7 @@ class HomeComponent {
                 "Bachelors in Electronics Engineering",
                 "Indian Institute of Technology (Banaras Hindu University), Varanasi",
                 "Current CGPA: ",
-                "9.25/10",
+                "9.23/10",
                 "Key Courses undertaken: Ubiquitous Computing, Basic Computer Programming,Digital Electronics, Digital Communication, Microprocessor Engineering",
                 "Activites and Clubs: Aeromodelling Club, Robotics Club",
             ],
