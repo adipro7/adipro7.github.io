@@ -675,12 +675,12 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/codespace/workspace/my-portfolio/src/assets/css/animate.css */"./src/assets/css/animate.css");
-__webpack_require__(/*! /home/codespace/workspace/my-portfolio/src/assets/css/bootstrap.css */"./src/assets/css/bootstrap.css");
-__webpack_require__(/*! /home/codespace/workspace/my-portfolio/src/assets/css/card.css */"./src/assets/css/card.css");
-__webpack_require__(/*! /home/codespace/workspace/my-portfolio/src/assets/css/flexslider.css */"./src/assets/css/flexslider.css");
-__webpack_require__(/*! /home/codespace/workspace/my-portfolio/src/assets/css/style.css */"./src/assets/css/style.css");
-module.exports = __webpack_require__(/*! /home/codespace/workspace/my-portfolio/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /workspaces/my-portfolio/src/assets/css/animate.css */"./src/assets/css/animate.css");
+__webpack_require__(/*! /workspaces/my-portfolio/src/assets/css/bootstrap.css */"./src/assets/css/bootstrap.css");
+__webpack_require__(/*! /workspaces/my-portfolio/src/assets/css/card.css */"./src/assets/css/card.css");
+__webpack_require__(/*! /workspaces/my-portfolio/src/assets/css/flexslider.css */"./src/assets/css/flexslider.css");
+__webpack_require__(/*! /workspaces/my-portfolio/src/assets/css/style.css */"./src/assets/css/style.css");
+module.exports = __webpack_require__(/*! /workspaces/my-portfolio/src/styles.css */"./src/styles.css");
 
 
 /***/ })
